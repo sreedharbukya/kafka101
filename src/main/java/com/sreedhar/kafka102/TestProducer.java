@@ -1,4 +1,4 @@
-package com.alacriti.kafka102;
+package com.sreedhar.kafka102;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;

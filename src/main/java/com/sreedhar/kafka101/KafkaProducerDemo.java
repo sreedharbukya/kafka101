@@ -1,4 +1,4 @@
-package com.alacriti.kafka101;
+package com.sreedhar.kafka101;
 
 public class KafkaProducerDemo implements KafkaProperties {
 	public static void main(String [] args){

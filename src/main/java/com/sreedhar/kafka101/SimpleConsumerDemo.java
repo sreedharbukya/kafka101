@@ -1,4 +1,4 @@
-package com.alacriti.kafka101;
+package com.sreedhar.kafka101;
 
 import kafka.api.FetchRequest;
 import kafka.api.FetchRequestBuilder;

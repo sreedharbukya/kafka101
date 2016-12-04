@@ -1,4 +1,4 @@
-package com.alacriti.kafka101;
+package com.sreedhar.kafka101;
 
 import kafka.utils.ShutdownableThread;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
